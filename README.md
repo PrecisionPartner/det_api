@@ -1,1 +1,3 @@
-# det_api
+To run locally:
+
+uvicorn main_det:app
